@@ -9,7 +9,7 @@ Ver en Vivo (Demo)
 
 Puedes interactuar con el proyecto y ver el diseño Responsive en acción:
 
-[]([PEGA AQUÍ EL ENLACE DE LA DEMO, EJ: GITHUB PAGES])
+[my-learning-portfolio.vercel.app]
 
 🛠️ Tecnologías Utilizadas
 
