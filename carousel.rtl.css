@@ -53,6 +53,25 @@ body {
   margin-left: .75rem;
 }
 
+/* ESTILOS DE LOS LOGOS (REEMPLAZO DE SVG) */
+.logo-container {
+    width: 140px; 
+    height: 140px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto 1.5rem auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: #ffffff;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); 
+}
+
+.tech-logo {
+    max-width: 95%; 
+    max-height: 95%; 
+    object-fit: contain; 
+}
 
 /* Featurettes */
 .featurette-divider {
